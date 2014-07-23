@@ -15,7 +15,7 @@
 </div>
 
 <div class="footer">
-  <span>Powered by <a href="https://tools.wmflabs.org/">Wikimedia Tool Labs</a>. Author <a href="https://uk.wikipedia.org/wiki/User:RLuts">RLuts</a></span>
+  <span>Powered by <a href="https://tools.wmflabs.org/">Wikimedia Tool Labs</a> • <a href="https://uk.wikipedia.org/wiki/User_talk:RLuts?action=edit&section=new&preloadtitle=WLE%20Tool">Report a bug</a> • <a href="https://github.com/rluts/WLE">Source</a></span>
 </div>
 </body>
 </html>
